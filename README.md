@@ -1,4 +1,6 @@
 # Welcome to my Page!!!
-# ivoferro.github.io
+## https://ivoferro.github.io/
 
-My very own portfolio to reach awesome people and share knowledge and experiences with the world! :)
+At the moment it has a resume structure and I've used [this template](https://startbootstrap.com/template-overviews/resume/).
+
+I'm planning to change it to a portfolio to showcase my projects!
